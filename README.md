@@ -3,6 +3,7 @@ This repo is intended for people who want to learn docker from scratch , we will
 
 Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlXiMH-uYtE-5p_6A) and subscribe
 
+![My Channel](Youtube-Banner.jpg)
 
 | Docker Series | Topic + Youtube URL | Read Me File
 | ------ | ------ | ---|
