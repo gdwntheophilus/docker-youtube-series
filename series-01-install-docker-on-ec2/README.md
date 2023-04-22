@@ -18,3 +18,10 @@ yum update -y
 yum -y install docker
 systemctl start docker.service
 ```
+- Execute below command to check docker infor
+```bash
+docker info
+docker --version
+(or)
+docker -v
+```
