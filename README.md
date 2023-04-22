@@ -7,3 +7,4 @@ This repo is intended for people who want to learn docker from scratch , we will
 | ------ | ------ | ---|
 | AWS EC2 | [AWS EC2 creation for docker installation](https://www.youtube.com/watch?v=-xIQZPq0XDc&t=146s) | NA
 | Docker | Install Docker on EC2 |  [README.md](https://github.com/gdwntheophilus/docker-youtube-series/tree/main/series-01-install-docker-on-ec2)
+| More Yet to come | Work In-Progress | Expect updated soon
