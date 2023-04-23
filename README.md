@@ -18,7 +18,7 @@ Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlX
 | Docker | Inspect Docker Containers | Expect updated soon
 | Docker | Docker Container Logs | Expect updated soon
 | Docker | Create Image Using Dockerfile | Expect updated soon
-| Docker | Docker Images / Where are the images Stored | Expect updated soon
+| Docker | Docker Images / Where are the images Stored | Expect updated soo
 | Docker | Inspecting Docker Images | Expect updated soon
 | Docker | Storage Drivers & Volumes | Expect updated soon
 | Docker | Docker Create Volumes | Expect updated soon
