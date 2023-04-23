@@ -10,12 +10,13 @@ Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlX
 | AWS EC2 | [AWS EC2 creation for docker installation](https://www.youtube.com/watch?v=-xIQZPq0XDc) | You are in the current file
 | Docker | [Install Docker on EC2](https://www.youtube.com/watch?v=FXWkqdo_7qQ) |  [README.md](https://github.com/gdwntheophilus/docker-youtube-series/tree/main/series-01-install-docker-on-ec2)
 | Docker | Docker Command Line Interface | Expect updated soon
+| Docker | Creating Docker Account | Expect updated soon
+| Docker | What is Dockerfile | Expect updated soon
 | Docker| Create Docker Containers | Expect updated soon
 | Docker | States of Docker Containers | Expect updated soon
 | Docker | Getting Inside Docker Container | Expect updated soon
 | Docker | Inspect Docker Containers | Expect updated soon
 | Docker | Docker Container Logs | Expect updated soon
-| Docker | What is Dockerfile | Expect updated soon
 | Docker | Create Image Using Dockerfile | Expect updated soon
 | Docker | Docker Images / Where are the images Stored | Expect updated soon
 | Docker | Inspecting Docker Images | Expect updated soon
