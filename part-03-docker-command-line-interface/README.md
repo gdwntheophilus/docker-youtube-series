@@ -31,3 +31,12 @@ docker exec -it <containerid> /bin/sh
 ```bash
 docker run -it busybox:latest ping -c 6 localhost
 ```
+
+- Docker help
+```bash
+docker --help
+docker run --help
+docker volume --help
+docker image --help
+docker build --help
+```
