@@ -10,7 +10,7 @@ Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlX
 | AWS EC2 | Part - 01| [AWS EC2 creation for docker installation](https://www.youtube.com/watch?v=-xIQZPq0XDc) | You are in the current file
 | Docker |  Part - 02 |[Install Docker on EC2](https://www.youtube.com/watch?v=FXWkqdo_7qQ) |  [README.md](https://github.com/gdwntheophilus/docker-youtube-series/tree/main/series-01-install-docker-on-ec2)
 | Docker |  Part - 03 |Docker Command Line Interface | [README.md](https://github.com/gdwntheophilus/docker-youtube-series/tree/main/part-02-docker-command-line-interface)
-| Docker |  Part - 04 |Creating Docker Account and push a docker image to dockerhub| Practical Session
+| Docker |  Part - 04 |Creating Docker Account | Practical Session
 | Docker |  Part - 05 |What is Dockerfile | Expect updated soon
 | Docker |  Part - 06 |Create Docker Images and Containers | Expect updated soon
 | Docker |  Part - 07 |States of Docker Containers | Expect updated soon
