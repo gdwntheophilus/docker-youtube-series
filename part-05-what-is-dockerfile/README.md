@@ -44,6 +44,8 @@ EXPOSE 80
 CMD ["apache2ctl", "-D", "FOREGROUND"]
 ```
 
+![](DockerrunState.png)
+
 - Docker command to build the file
 ``` bash
 docker build -t myfirstimage .
