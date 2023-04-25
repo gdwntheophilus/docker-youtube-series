@@ -53,6 +53,11 @@ docker build -t myfirstimage .
 docker run -p 80:80 myfirstimage
 ```
 
+- How can we pass build variable
+``` bash
+docker build -t myfirstimage --build-arg imagename=ubuntu .
+```
+
 - Attaching a volume and testing if appearing on browser
 ``` bash
 docker run -p 80:80 -v /User/godwin/docker/volume:/var/www/html myfirstimage
