@@ -1,7 +1,7 @@
 # States of Docker Containers
 In this video we will be checking on docker container and its states
 
-``` yaml
+``` bash
 created : A container that has been created (e.g. with docker create) but not started
 restarting : A container that is in the process of being restarted
 running A currently running container

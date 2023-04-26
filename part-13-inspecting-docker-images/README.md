@@ -6,5 +6,5 @@ In this tutorial we are going to see how we can inspect a docker image
 ```docker 
 docker inspect <imagename>
 docker inspect <containerid>
-docker volume inspect <volumename>
+
 ```
