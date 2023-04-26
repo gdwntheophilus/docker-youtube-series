@@ -18,7 +18,7 @@ Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlX
 | Docker |  Part - 09 |Inspect Docker Containers | Expect updated soon
 | Docker |  Part - 10 |Docker Container Logs | Expect updated soon
 | Docker |  Part - 11 |Create Image Using Dockerfile | Expect updated soon
-| Docker |  Part - 12 |Docker Images / Where are the images Stored | Expect updated soon
+| Docker |  Part - 12 |Practical usecase  | Expect updated soon
 | Docker |  Part - 13 |Inspecting Docker Images | Expect updated soon
 | Docker |  Part - 14 |Storage Drivers & Volumes | Expect updated soon
 | Docker |  Part - 15 |Docker Create Volumes, Types of Volumes | Expect updated soon
