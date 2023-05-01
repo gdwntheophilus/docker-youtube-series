@@ -25,8 +25,8 @@ Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlX
 | Docker |  Part - 16 |Docker Network and its types | Expect updated soon
 | Docker |  Part - 17 |Docker Swarm | Expect updated soon
 | Docker |  Part - 18 |Create Docker Swarm | Expect updated soon
-| Docker |  Part - 19 |Docker Service | Expect updated soon
-| Docker |  Part - 20 |Docker Swarm, Creating replicas | Expect updated soon
-| Docker |  Part - 21 |Docker Resource Usage | Expect updated soon
-| Docker |  Part - 22 |Docker Draining a Worker node | Expect updated soon
-| Docker |  Part - 23 |All About Docker Compose | Expect updated soon
+| Docker |  Part - 19 |part-19-docker-compose | Expect updated soon
+| Docker |  Part - 20 |Docker Compose Multiple Network | Expect updated soon
+| Docker |  Part - 21 |Docker Swarm, Creating replicas | Expect updated soon
+| Docker |  Part - 22 |Docker Resource Usage | Expect updated soon
+| Docker |  Part - 23 |Docker Draining a Worker node | Expect updated soon

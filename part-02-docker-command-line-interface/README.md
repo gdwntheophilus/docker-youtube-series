@@ -1,6 +1,3 @@
-# Install docker on a AWS EC2 server
-
-In this video we will be seeing how to install docker in AWS EC2 instance
 
 # Prerequisites
 - This tutorial assumes you have a EC2 or a VM Server where you will be installing Docker

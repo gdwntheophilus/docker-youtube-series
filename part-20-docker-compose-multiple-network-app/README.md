@@ -1,0 +1,63 @@
+# Multiple Network Docker Compose Application
+
+In this Tutorial we are going to see how to setup multiple docker compose 
+
+### Creating App1 and App2 with postgresql as the database
+
+``` docker
+version: '2'
+services:
+  myapp1:
+    build: ./myapp1
+    container_name: myapp1
+    networks:
+      - app-network-app1-db
+    ports:
+      - 5002:8080
+    depends_on:
+      - mydb
+  myapp2:
+    build: ./myapp2
+    container_name: myapp2
+    networks:
+      - app-network-app2
+    ports:
+      - 5001:8081
+    depends_on:
+      - mydb
+
+  mydb:
+    image: postgres:10.4
+    container_name: mydb
+    restart: always
+    environment:
+      POSTGRES_USER: "dbadmin"
+      POSTGRES_PASSWORD: "postgres123"
+      PGDATA: "/var/lib/postgresql/data"
+    volumes:
+      - ./mydb/init.sql:/docker-entrypoint-initdb.d/db.sql
+      - ./postgres-data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    networks:
+       - app-network-app1-db
+
+volumes:
+  postgres-data:
+networks:
+  app-network-app1-db:
+    driver: bridge 
+
+```
+
+### we will validate if the apps are running
+
+```docker
+docker compose ps 
+```
+
+### now lets test the app
+```docker
+docker compose exec myapp1 curl localhost:5000
+docker compose exec myapp2 curl localhost:5000
+```
