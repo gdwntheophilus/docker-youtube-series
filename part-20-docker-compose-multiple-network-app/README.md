@@ -59,5 +59,5 @@ docker compose ps
 ### now lets test the app
 ```docker
 docker compose exec myapp1 curl localhost:5000
-docker compose exec myapp2 curl localhost:5000
+docker compose exec myapp2' curl localhost:5000
 ```
