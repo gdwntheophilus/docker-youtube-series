@@ -1,7 +1,7 @@
 # docker-youtube-series
 This repo is intended for people who want to learn docker from scratch , we will be using AWS and MacBook local as out deployment environment
 
-Visit my youtube channel [GtCodeCage](https://www.youtube.com/channel/UCbtpE4JlXiMH-uYtE-5p_6A) and subscribe
+Visit my youtube channel [GtCodeCafe](https://www.youtube.com/channel/UCbtpE4JlXiMH-uYtE-5p_6A) and subscribe
 
 ![](Youtube-Banner.png)
 

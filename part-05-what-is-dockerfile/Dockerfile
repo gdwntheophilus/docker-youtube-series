@@ -1,7 +1,7 @@
 
 ARG imagename
 FROM ${imagename} 
-LABEL "website.name"="geeksforgeeks website"
+LABEL "website.name"="GtCodeCafe"
 USER root
 WORKDIR /
 COPY test.txt /
